@@ -3,6 +3,7 @@ The topic of my Ml individual project is to Prediction of Ocean Partial Pressure
 
 ## Data Link: 
 https://drive.google.com/file/d/1qFu1UyFOiTyWr2YGuirWs7ENanZYptUf/view?usp=share_link
-please refer to this link for data, thanks!
+
+Because the data is a little large (1.03GB), therefore, I create one googledrive for data, please refer to this link for data, thanks!
 ## Best Model:
 https://drive.google.com/drive/folders/1y7cJlqg4dPh9eCortB90LxQFajRLoLlm?usp=share_link
