@@ -1,5 +1,4 @@
 # EEAE-4000-ML-Individual-project
-Read me file
 The topic of my Ml individual project is to Prediction of Ocean Partial Pressure Carbon Dioxide (pCO2) Using XGBoost, Random Forest and LSTM.
 
 # Data Link: 
